@@ -1,6 +1,6 @@
-# Code for Group 13 Final project "HUMAN"
+# Hateful Meme Detection 
 
-## Aarushi Gupta, Aman Khullar, Kasturi Gottivedu Shriniwas, Surya Teja Adluri, Vidushi Vashishth
+
 
 [Data Link](https://drive.google.com/drive/folders/1wVDc_gXxF-NaWqkWfk4Dnt-9bRzLFYCi?usp=sharing)
 
